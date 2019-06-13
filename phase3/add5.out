@@ -1,0 +1,5 @@
+add5: Stack overflow, pc = 7, sp = 250
+Turn around time = 51, CPU time = 8, Wait time = 25, IO time = 8
+Total CPU time = 8, System time = 295, Idle time = 0, Final Clock = 1080
+Real CPU Utilization = 72.7%, System CPU Utilization = 100%, Throughput = 4.63
+

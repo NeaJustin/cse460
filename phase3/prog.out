@@ -1,0 +1,6 @@
+1
+prog: Out of bound Error, pc = 26
+Turn around time = 106, CPU time = 7, Wait time = 55, IO time = 29
+Total CPU time = 7, System time = 295, Idle time = 0, Final Clock = 1080
+Real CPU Utilization = 72.7%, System CPU Utilization = 100%, Throughput = 4.63
+

@@ -1,0 +1,5 @@
+sum2: Out of bound Error, pc = 13
+Turn around time = 1080, CPU time = 511, Wait time = 385, IO time = 9
+Total CPU time = 511, System time = 295, Idle time = 0, Final Clock = 1080
+Real CPU Utilization = 72.7%, System CPU Utilization = 100%, Throughput = 4.63
+
